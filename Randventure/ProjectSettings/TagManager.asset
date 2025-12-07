@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2801288411
+    locked: 0
+  - name: Hero_Statistics
+    uniqueID: 2838495057
+    locked: 0
+  - name: Hero_Card
+    uniqueID: 4121037093
+    locked: 0
+  - name: Hero_LHA
+    uniqueID: 4003143553
+    locked: 0
+  - name: M3_Statistics
+    uniqueID: 37264659
+    locked: 0
+  - name: M3_Card
+    uniqueID: 898034991
+    locked: 0
+  - name: M3_HA
+    uniqueID: 286228237
+    locked: 0
+  - name: M2_Statistics
+    uniqueID: 54394869
+    locked: 0
+  - name: M2_Card
+    uniqueID: 1554550907
+    locked: 0
+  - name: M2_HA
+    uniqueID: 3829594953
+    locked: 0
+  - name: M1_Statistics
+    uniqueID: 3839495135
+    locked: 0
+  - name: M1_Card
+    uniqueID: 2254320173
+    locked: 0
+  - name: M1_HA
+    uniqueID: 1729685883
+    locked: 0
+  - name: States
+    uniqueID: 3114359669
+    locked: 0
+  - name: Ability_Page
+    uniqueID: 929873019
+    locked: 0
+  - name: Overall
+    uniqueID: 4065595597
+    locked: 0

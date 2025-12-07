@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: 932749c520c464c3280a97a291307ee6
+timeCreated: 1502790266
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pleaunte_0
+    21300002: Pleaunte_1
+    21300004: Pleaunte_2
+    21300006: Pleaunte_3
+    21300008: Pleaunte_4
+    21300010: Pleaunte_5
+    21300012: Pleaunte_6
+    21300014: Pleaunte_7
+    21300016: Pleaunte_8
+    21300018: Pleaunte_9
+    21300020: Pleaunte_10
+    21300022: Pleaunte_11
+    21300024: Pleaunte_12
+    21300026: Pleaunte_13
+    21300028: Pleaunte_14
+    21300030: Pleaunte_15
+    21300032: Pleaunte_16
+    21300034: Pleaunte_17
+    21300036: Pleaunte_18
+    21300038: Pleaunte_19
+    21300040: Pleaunte_20
+    21300042: Pleaunte_21
+    21300044: Pleaunte_22
+    21300046: Pleaunte_23
+    21300048: Pleaunte_24
+    21300050: Pleaunte_25
+    21300052: Pleaunte_26
+    21300054: Pleaunte_27
+    21300056: Pleaunte_28
+    21300058: Pleaunte_29
+    21300060: Pleaunte_30
+    21300062: Pleaunte_31
+    21300064: Pleaunte_32
+    21300066: Pleaunte_33
+    21300068: Pleaunte_34
+    21300070: Pleaunte_35
+    21300072: Pleaunte_36
+    21300074: Pleaunte_37
+    21300076: Pleaunte_38
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pleaunte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_3
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_4
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_5
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_6
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_7
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_8
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_9
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_10
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_11
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_12
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_13
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 1440
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_17
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_19
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_20
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_21
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_22
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_23
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_24
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_25
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_26
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_27
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 720
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_31
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_32
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_33
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_34
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_35
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_36
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_37
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pleaunte_38
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 0
+        width: 750
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

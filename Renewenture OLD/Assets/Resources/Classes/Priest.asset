@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e914c644ce4b67bac6170369efb33, type: 3}
+  m_Name: Priest
+  m_EditorClassIdentifier: 
+  className: "Pr\xEAtre"
+  hp: 6
+  physicalAttack: 0
+  magicalAttack: 5
+  physicalDefense: 2
+  magicalDefense: 7
+  attackSpeed: 4
+  spells:
+  - {fileID: 11400000, guid: 9561329770df44cd282f013ada593681, type: 2}
+  - {fileID: 11400000, guid: e133db21061b9463ba5803a9621ce784, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b18f4a234aabac47b094476695f18e4, type: 3}
+  m_Name: Priest
+  m_EditorClassIdentifier: 
+  _className: Priest
+  _cardType: 1
+  _idleSprite: {fileID: 8652236374080822528, guid: 2afd1ed6326c8ea4b8309d099b77e534,
+    type: 3}
+  _attackSprite: {fileID: -6872581568295986567, guid: 2afd1ed6326c8ea4b8309d099b77e534,
+    type: 3}
+  _hitSprite: {fileID: 6994026936854221785, guid: 2afd1ed6326c8ea4b8309d099b77e534,
+    type: 3}
+  HP: 2
+  PhysicalAttack: 0
+  MagicalAttack: 4
+  PhysicalDefense: 0
+  MagicalDefense: 4
+  _abilities:
+  - {fileID: 11400000, guid: 80afc613c0ebb254e903f980eb5ad719, type: 2}
+  - {fileID: 11400000, guid: d027ff5577ebc2148be598bf02b7fe45, type: 2}
+  - {fileID: 11400000, guid: e9773d424e3456d40a56aa00f951e2ba, type: 2}

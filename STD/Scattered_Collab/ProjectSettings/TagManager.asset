@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DynamicParticle
+  - Interactive
+  - Enemy
+  - Flame
+  - Projectile
+  - Doppel
+  - Neidan
+  - Menu
+  - Bar
+  - Passive
+  - RayCast
+  - Camera
+  - Fight_Trigger
+  - Name
+  - MainName
+  - T
+  - P2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Neidan
+  - Doppel
+  - Enemy
+  - Platforms
+  - Parallax
+  - 
+  - Wall_N
+  - Wall_D
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - FightTrigger
+  - RayCast
+  - Flames
+  - Projectiles
+  - Liquids
+  - Triggers
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parallax
+    uniqueID: 3918178673
+    locked: 0
+  - name: Plateforms
+    uniqueID: 2161231203
+    locked: 0
+  - name: Elements
+    uniqueID: 2981334753
+    locked: 0
+  - name: Particles
+    uniqueID: 4087676505
+    locked: 0
+  - name: Liquids
+    uniqueID: 4247316271
+    locked: 0
+  - name: Projectiles
+    uniqueID: 4247425349
+    locked: 0
+  - name: Enemies
+    uniqueID: 2840572057
+    locked: 0
+  - name: Characters
+    uniqueID: 2296806109
+    locked: 0
+  - name: UI
+    uniqueID: 2321185123
+    locked: 0

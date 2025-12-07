@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Heavy Bite
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: -1919816724809331531, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Heavy Bite
+  _abilityDescription: "Attaque monocible lente infligeant 250% de ses d\xE9g\xE2ts
+    physiques.\n\nCritique : Augmente le pourcentage de d\xE9g\xE2t \xE0 400% et
+    la vitesse de l'attaque devient normale."
+  _haveCritic: 1
+  abilityPriority: 0
+  abilityCriticPriority: 1
+  _battleActions:
+  - {fileID: 11400000, guid: 439bdb8257d197942b73130f7c96181f, type: 2}
+  _criticBattleActions:
+  - {fileID: 11400000, guid: 3e07286d56fd1844e934d49869c97707, type: 2}

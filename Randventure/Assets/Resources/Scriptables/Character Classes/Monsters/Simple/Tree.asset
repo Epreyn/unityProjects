@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b18f4a234aabac47b094476695f18e4, type: 3}
+  m_Name: Tree
+  m_EditorClassIdentifier: 
+  _className: Tree
+  _cardType: 3
+  _idleSprite: {fileID: -5158264512514458737, guid: 8df121de182a1e648a9433c7952949fd,
+    type: 3}
+  _attackSprite: {fileID: -8227385621484202357, guid: 8df121de182a1e648a9433c7952949fd,
+    type: 3}
+  _hitSprite: {fileID: -8227385621484202357, guid: 8df121de182a1e648a9433c7952949fd,
+    type: 3}
+  HP: 5
+  PhysicalAttack: 0
+  MagicalAttack: 0
+  PhysicalDefense: 0
+  MagicalDefense: 0
+  _abilities:
+  - {fileID: 11400000, guid: 259f745357c654643bab8fb9827893d3, type: 2}
+  - {fileID: 11400000, guid: 97de5cfb986167c4388a9d4693af0f8d, type: 2}

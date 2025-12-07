@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69d70b511e9cd47969677269f6a53065, type: 3}
+  m_Name: Holy_Nova_A2
+  m_EditorClassIdentifier: 
+  targetType: 3
+  accuracyPercent: 100
+  actionType: 0
+  damageType: 1
+  damageResistance: 2
+  rangePercentDamage: {x: 20, y: 20}
+  healType: 0
+  rangePercentHeal: {x: 0, y: 0}
+  classicState: {fileID: 0}
+  onTimeStateType: 0
+  rangePercentOnTimeState: {x: 0, y: 0}
+  onTimeState: {fileID: 0}

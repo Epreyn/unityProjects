@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 261f80352bcc84d2aba96429df8ac8d5
+timeCreated: 1503925431
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blacksword
+  fontNames:
+  - Blacksword
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

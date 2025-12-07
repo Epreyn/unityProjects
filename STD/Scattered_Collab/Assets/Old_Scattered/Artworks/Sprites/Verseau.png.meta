@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: ca1184f24164a6840a5198268b9f87e8
+timeCreated: 1492335795
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Verseau_0
+    21300002: Verseau_1
+    21300004: Verseau_2
+    21300006: Verseau_3
+    21300008: Verseau_4
+    21300010: Verseau_5
+    21300012: Verseau_6
+    21300014: Verseau_7
+    21300016: Verseau_8
+    21300018: Verseau_9
+    21300020: Verseau_10
+    21300022: Verseau_11
+    21300024: Verseau_12
+    21300026: Verseau_13
+    21300028: Verseau_14
+    21300030: Verseau_15
+    21300032: Verseau_16
+    21300034: Verseau_17
+    21300036: Verseau_18
+    21300038: Verseau_19
+    21300040: Verseau_20
+    21300042: Verseau_21
+    21300044: Verseau_22
+    21300046: Verseau_23
+    21300048: Verseau_24
+    21300050: Verseau_25
+    21300052: Verseau_26
+    21300054: Verseau_27
+    21300056: Verseau_28
+    21300058: Verseau_29
+    21300060: Verseau_30
+    21300062: Verseau_31
+    21300064: Verseau_32
+    21300066: Verseau_33
+    21300068: Verseau_34
+    21300070: Verseau_35
+    21300072: Verseau_36
+    21300074: Verseau_37
+    21300076: Verseau_38
+    21300078: Verseau_39
+    21300080: Verseau_40
+    21300082: Verseau_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Verseau_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6720
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_1
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 6720
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_2
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 6720
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_3
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 6720
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_4
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 6720
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_5
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 6720
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_6
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 6720
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_8
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 5600
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_9
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 5600
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_10
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 5600
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_11
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5600
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_12
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5600
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_13
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 5600
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4480
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_15
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 4480
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_16
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4480
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_17
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4480
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_18
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4480
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_19
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4480
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_20
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 4480
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_22
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3360
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_23
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3360
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_24
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3360
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_25
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3360
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_26
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3360
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_27
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 3360
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_29
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2240
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_30
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2240
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_31
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2240
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_32
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2240
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_33
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2240
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_34
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 2240
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_36
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1120
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_37
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1120
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_38
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1120
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_39
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1120
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_40
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1120
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Verseau_41
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 1120
+        width: 1120
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

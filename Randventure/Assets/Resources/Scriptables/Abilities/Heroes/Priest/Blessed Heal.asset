@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Blessed Heal
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: -1001627323050418787, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Blessed Heal
+  _abilityDescription: "Le lanceur s'octroie un bouclier \xE9quivalent \xE0 50% de
+    ses d\xE9g\xE2ts magiques.\n\nLe lanceur applique un soin et octroie un bouclier
+    au prochain alli\xE9 attaquant de 50% de ses d\xE9g\xE2ts magiques.\n\nCritique
+    : Augmente les pourcentages \xE0 100%."
+  _haveCritic: 1
+  abilityPriority: 1
+  abilityCriticPriority: 1
+  _battleActions:
+  - {fileID: 11400000, guid: 3955aa9bdbdde504783704342dde97aa, type: 2}
+  - {fileID: 11400000, guid: 37518b22852c51443a9d1cbd23d4dfca, type: 2}
+  - {fileID: 11400000, guid: cfc36675614e7594c90c883729f0cf05, type: 2}
+  _criticBattleActions:
+  - {fileID: 11400000, guid: 91fc888613afc7e45aee21ef75a7bff0, type: 2}
+  - {fileID: 11400000, guid: 82d6d7b0bafac6949987dd71a74ec60b, type: 2}
+  - {fileID: 11400000, guid: 005efdb89f1219345a7ae9d7bd102ce4, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Fatality
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: 5748427262508077643, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Fatality
+  _abilityDescription: "Execute sa cible si elle poss\xE8de moins de 33% de ses points
+    de vie maximum.\n\nCritique : Attaque la cible \xE0 hauteur de 100% de ses d\xE9g\xE2ts
+    physiques avant de tenter son execution."
+  _haveCritic: 1
+  abilityPriority: 1
+  abilityCriticPriority: 1
+  _battleActions:
+  - {fileID: 11400000, guid: 1dc7f33b30decf641be73a4c6e36e766, type: 2}
+  _criticBattleActions:
+  - {fileID: 11400000, guid: 6e559831667907e4a985601878903d1e, type: 2}
+  - {fileID: 11400000, guid: 1dc7f33b30decf641be73a4c6e36e766, type: 2}

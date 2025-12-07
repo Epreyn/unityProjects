@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Shield Up
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: -9088157128640830714, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Shield Up
+  _abilityDescription: "Le lanceur s'octroie 30% de r\xE9sistance physique suppl\xE9mentaires
+    pendant pour ce tour.\nLe prochain alli\xE9 sera prot\xE9g\xE9 par le lanceur
+    s'il venait \xE0 recevoir des d\xE9g\xE2ts.\n\nCritique : Le pourcentage de r\xE9sistance
+    physique suppl\xE9mentaire octoy\xE9 passe \xE0 100%."
+  _haveCritic: 1
+  abilityPriority: 1
+  abilityCriticPriority: 1
+  _battleActions:
+  - {fileID: 11400000, guid: c7512fcf41ab79d40af909309d0aebf3, type: 2}
+  - {fileID: 11400000, guid: dfab3a4cf58020449b79c902cd41962f, type: 2}
+  _criticBattleActions:
+  - {fileID: 11400000, guid: abc39050d5055ad4fbd26c8ddb844738, type: 2}
+  - {fileID: 11400000, guid: dfab3a4cf58020449b79c902cd41962f, type: 2}

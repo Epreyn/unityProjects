@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: More Mosquitoes
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: 9153303507336129048, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: More Mosquitoes
+  _abilityDescription: "Invoque un Essaim de Moustiques poss\xE9dant 50% des points
+    de vie actuels du lanceur."
+  _haveCritic: 0
+  abilityPriority: 1
+  abilityCriticPriority: 0
+  _battleActions:
+  - {fileID: 11400000, guid: da311a7432f79d24699aab2c47d56c86, type: 2}
+  _criticBattleActions: []

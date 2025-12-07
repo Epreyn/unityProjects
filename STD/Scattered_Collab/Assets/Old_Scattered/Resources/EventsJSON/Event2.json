@@ -1,0 +1,82 @@
+{
+    "dialogues":    [
+        {
+            "characterType": 1,
+            "name": "Doppel",
+            "atlasImageName": "EventAtlas_1",
+            "dialogueText": "Ahh ! Home Sweet Home !"
+        },
+        {
+            "characterType": 0,
+            "name": "Neidan",
+            "atlasImageName": "EventAtlas_0",
+            "dialogueText": "What was that ?"
+        },
+        {
+            "characterType": 1,
+            "name": "Doppel",
+            "atlasImageName": "EventAtlas_1",
+            "dialogueText": "Listen, I'm an echo of your soul and I'm here to protect you !"
+        },
+        {
+            "characterType": 0,
+            "name": "Neidan",
+            "atlasImageName": "EventAtlas_0",
+            "dialogueText": "You protect me ? Against what ?"
+        },
+        {
+            "characterType": 1,
+            "name": "Doppel",
+            "atlasImageName": "EventAtlas_1",
+            "dialogueText": "Against you of course !"
+        },
+        {
+            "characterType": 0,
+            "name": "Neidan",
+            "atlasImageName": "EventAtlas_0",
+            "dialogueText": "Me ?"
+        },
+        {
+            "characterType": 1,
+            "name": "Doppel",
+            "atlasImageName": "EventAtlas_1",
+            "dialogueText": "Hey boy ! If I'm an echo of your soul, where are we ?"
+        },
+        {
+            "characterType": 0,
+            "name": "Neidan",
+            "atlasImageName": "EventAtlas_0",
+            "dialogueText": "I really don't know, I just woke up !"
+        },
+        {
+            "characterType": 1,
+            "name": "Doppel",
+            "atlasImageName": "EventAtlas_1",
+            "dialogueText": "We are in your mind Neidan !"
+        },
+        {
+            "characterType": 0,
+            "name": "Neidan",
+            "atlasImageName": "EventAtlas_0",
+            "dialogueText": "How it's possible ? I see ... It's just a dream ... I will wake up ..."
+        },
+        {
+            "characterType": 1,
+            "name": "Doppel",
+            "atlasImageName": "EventAtlas_1",
+            "dialogueText": "Is'nt a dream, it's real but only for you : it's your own reality."
+        },
+        {
+            "characterType": 0,
+            "name": "Neidan",
+            "atlasImageName": "EventAtlas_0",
+            "dialogueText": "..."
+        },
+        {
+            "characterType": 1,
+            "name": "Doppel",
+            "atlasImageName": "EventAtlas_1",
+            "dialogueText": "They are some enemies here : use me to protect you with J & L"
+        }
+    ]
+}

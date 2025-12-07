@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Seed of Life
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: -6547776715241052430, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Seed of Life
+  _abilityDescription: "Applique un DOT infligeant 50% de ses d\xE9g\xE2ts magiques
+    durant trois tours et se soigne \xE0 hauteur de 25% de ses d\xE9g\xE2ts magiques."
+  _haveCritic: 0
+  abilityPriority: 1
+  abilityCriticPriority: 0
+  _battleActions:
+  - {fileID: 11400000, guid: 38298ebf401299d4cb41161451eccd0c, type: 2}
+  - {fileID: 11400000, guid: df2e7434ef0a83444ab57a4f7d8460a1, type: 2}
+  _criticBattleActions: []

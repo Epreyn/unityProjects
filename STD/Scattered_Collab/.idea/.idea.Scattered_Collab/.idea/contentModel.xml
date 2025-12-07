@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Scattered_Collab.884651657.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Old_Scattered" t="Include">
+          <e p="LiquidPhysics" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="DynamicParticle.cs" t="Include" />
+              <e p="ParticleGenerator.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Metaballs_Multiple.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="Editor" t="Include">
+              <e p="JetBrains" t="Include">
+                <e p="Unity3DRider.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AI" t="Include">
+              <e p="Atlas.cs" t="Include" />
+              <e p="Bouboule.cs" t="Include" />
+              <e p="Harpie.cs" t="Include" />
+              <e p="Pleaunte.cs" t="Include" />
+              <e p="Verseau.cs" t="Include" />
+              <e p="WaterTrigger.cs" t="Include" />
+            </e>
+            <e p="AudioManager" t="Include">
+              <e p="AudioManager.cs" t="Include" />
+              <e p="Sound.cs" t="Include" />
+            </e>
+            <e p="Camera" t="Include">
+              <e p="Camera2DFollow.cs" t="Include" />
+            </e>
+            <e p="Dialogue System" t="Include">
+              <e p="Classes" t="Include">
+                <e p="iManager.cs" t="Include" />
+                <e p="NarrativeEvent.cs" t="Include" />
+              </e>
+              <e p="Managers" t="Include">
+                <e p="AnimationManager.cs" t="Include" />
+                <e p="AtlasManager.cs" t="Include" />
+                <e p="MasterManager.cs" t="Include" />
+                <e p="PanelManager.cs" t="Include" />
+              </e>
+              <e p="Utilities" t="Include">
+                <e p="Contants.cs" t="Include" />
+                <e p="JSONFactory.cs" t="Include" />
+                <e p="PanelConfig.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Elements" t="Include">
+              <e p="Appear.cs" t="Include" />
+              <e p="BackCreator.cs" t="Include" />
+              <e p="ColumnCreator.cs" t="Include" />
+              <e p="DestroyTimer.cs" t="Include" />
+              <e p="Projectile.cs" t="Include" />
+            </e>
+            <e p="Events" t="Include">
+              <e p="Destroy.cs" t="Include" />
+              <e p="Triggers.cs" t="Include" />
+            </e>
+            <e p="Figth" t="Include">
+              <e p="EmptyGear.cs" t="Include" />
+              <e p="FightSystem.cs" t="Include" />
+              <e p="FightTriggerFields.cs" t="Include" />
+              <e p="LockSystem.cs" t="Include" />
+            </e>
+            <e p="Menu" t="Include">
+              <e p="Menu.cs" t="Include" />
+              <e p="SpellCollision.cs" t="Include" />
+              <e p="SpellSystem.cs" t="Include" />
+            </e>
+            <e p="Other" t="Include">
+              <e p="EnhancementJump.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="DisplayFight.cs" t="Include" />
+              <e p="Doppel.cs" t="Include" />
+              <e p="HitBox.cs" t="Include" />
+              <e p="Neidan.cs" t="Include" />
+              <e p="UserControl.cs" t="Include" />
+              <e p="UserControlDoppel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="InkBleed.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Scattered_Collab.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

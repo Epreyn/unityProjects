@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Blizzard
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: 5954055645616259112, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Blizzard
+  _abilityDescription: "Attaque tous les ennemis \xE0 35% de ses d\xE9g\xE2ts magiques.\n\nCritique
+    : Augmente le pourcentage de d\xE9g\xE2t \xE0 70%."
+  HerosOnMultitarget: 0
+  MonstersOnMultitarget: 1
+  _haveCritic: 1
+  abilityPriority: 1
+  abilityCriticPriority: 1
+  _battleActions:
+  - {fileID: 11400000, guid: e6777dc56edeeeb40b34e37d434ffc22, type: 2}
+  _criticBattleActions:
+  - {fileID: 11400000, guid: 5380d3a7517cb75419d82f5a91a2605f, type: 2}

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: BA_Blessed_Heal_N_3
+  m_EditorClassIdentifier: Assembly-CSharp::BattleAction
+  _checkOrder: 0
+  _attackOrder: 0
+  _targetType: 2
+  _monotargetType: 0
+  _multitargetType: 0
+  _invokeClass: {fileID: 0}
+  _hpBase: 0
+  _hpPercent: 0
+  _checkCardType: 0
+  _cardType: 0
+  _side: 0
+  _state: 0
+  _multPercent: 0
+  _actionType: 1
+  _damageType: 0
+  _damageRes: 0
+  _isRangedDMG: 0
+  _flatPercentDMG: 0
+  _rangePercentDMG: {x: 0, y: 0}
+  _healType: 1
+  _isRangedHEAL: 0
+  _flatPercentHEAL: 50
+  _rangePercentHEAL: {x: 0, y: 0}
+  _shieldType: 0
+  _isRangedSHIELD: 0
+  _flatPercentSHIELD: 0
+  _rangePercentSHIELD: {x: 0, y: 0}
+  _buffName: 
+  _turnNumberBUFF: 0
+  _physicalAttPercentBUFF: 0
+  _physicalResPercentBUFF: 0
+  _magicalAttPercentBUFF: 0
+  _magicalResPercentBUFF: 0
+  _debuffName: 
+  _turnNumberDEBUFF: 0
+  _physicalAttPercentDEBUFF: 0
+  _physicalResPercentDEBUFF: 0
+  _magicalAttPercentDEBUFF: 0
+  _magicalResPercentDEBUFF: 0
+  _dotName: 
+  _dotType: 0
+  _turnNumberDOT: 0
+  _isRangedDOT: 0
+  _flatPercentDOT: 0
+  _rangePercentDOT: {x: 0, y: 0}
+  _hotName: 
+  _hotType: 0
+  _turnNumberHOT: 0
+  _isRangedHOT: 0
+  _flatPercentHOT: 0
+  _rangePercentHOT: {x: 0, y: 0}
+  _executePercent: 0
+  _goldValue: 0

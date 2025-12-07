@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: The Call of Forest
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: 8618278769211870695, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: The Call of Forest
+  _abilityDescription: "Invoque un Tr\xE9ant poss\xE9dant 50% des points de vie actuels
+    du lanceur."
+  _haveCritic: 0
+  abilityPriority: 1
+  abilityCriticPriority: 0
+  _battleActions:
+  - {fileID: 11400000, guid: a20644722d8370144b880c5f7447f6e8, type: 2}
+  _criticBattleActions: []

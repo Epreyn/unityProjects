@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b18f4a234aabac47b094476695f18e4, type: 3}
+  m_Name: Treant
+  m_EditorClassIdentifier: 
+  _className: Treant
+  _cardType: 3
+  _idleSprite: {fileID: 2365929339480027090, guid: 5af1a4356ddedd84e83ca38ef0c56a8a,
+    type: 3}
+  _attackSprite: {fileID: 964115715661628147, guid: 5af1a4356ddedd84e83ca38ef0c56a8a,
+    type: 3}
+  _hitSprite: {fileID: -6435086411369162646, guid: 5af1a4356ddedd84e83ca38ef0c56a8a,
+    type: 3}
+  HP: 5
+  PhysicalAttack: 2
+  MagicalAttack: 0
+  PhysicalDefense: 3
+  MagicalDefense: 0
+  _abilities:
+  - {fileID: 11400000, guid: 20e1c2a4c69b3cf4e89e92dd6f0b027b, type: 2}
+  - {fileID: 11400000, guid: aef89030d1cc7f845879b645f470830c, type: 2}
+  - {fileID: 11400000, guid: a99f9cfdd34f38b45b7438f2a0e997bb, type: 2}

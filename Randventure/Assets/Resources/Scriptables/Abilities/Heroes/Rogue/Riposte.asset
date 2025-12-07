@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Riposte
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: -6184700903859516782, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Riposte
+  _abilityDescription: "Attaque monocible infligeant 50% de ses d\xE9g\xE2ts physiques
+    si le lanceur attaque avant son opposant.\n\nS'il attaque apr\xE8s, l'attaque
+    inflige 275% de ses d\xE9g\xE2ts physiques.\n\nCritique : S'octroie en bonus
+    50% de r\xE9sistance physique et magique suppl\xE9mentaire pour ce tour."
+  _haveCritic: 1
+  abilityPriority: 1
+  abilityCriticPriority: 1
+  _battleActions:
+  - {fileID: 11400000, guid: 41622252da6033744af356ee999a43de, type: 2}
+  - {fileID: 11400000, guid: 10a69961ab1357648bec57253488c8b5, type: 2}
+  _criticBattleActions:
+  - {fileID: 11400000, guid: 41622252da6033744af356ee999a43de, type: 2}
+  - {fileID: 11400000, guid: 10a69961ab1357648bec57253488c8b5, type: 2}
+  - {fileID: 11400000, guid: 8b0dd4303f46e3043bba71b914c2e9b1, type: 2}

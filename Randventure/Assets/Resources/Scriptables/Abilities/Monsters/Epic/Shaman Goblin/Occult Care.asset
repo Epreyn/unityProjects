@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Occult Care
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: -935711434172388003, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Occult Care
+  _abilityDescription: "Sort bas\xE9 les d\xE9g\xE2ts magiques du lanceur qui soigne
+    le prochain alli\xE9 attaquant \xE0 hauteur de 100% + 50% par Gobelin vivant
+    dans son groupe."
+  _haveCritic: 0
+  abilityPriority: 1
+  abilityCriticPriority: 0
+  _battleActions:
+  - {fileID: 11400000, guid: 1f0f96bd02aec3f4bbe96e4100317ecc, type: 2}
+  _criticBattleActions: []

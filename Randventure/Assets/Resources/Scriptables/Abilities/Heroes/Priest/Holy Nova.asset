@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Holy Nova
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: 7098446316783157476, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Holy Nova
+  _abilityDescription: "Soigne tous les alli\xE9s et attaque tous les ennemis \xE0
+    hauteur de 20% de ses d\xE9g\xE2ts magiques.\n\nCritique : Augmente le pourcentage
+    de d\xE9g\xE2t \xE0 40%."
+  HerosOnMultitarget: 1
+  MonstersOnMultitarget: 1
+  _haveCritic: 1
+  abilityPriority: 1
+  abilityCriticPriority: 1
+  _battleActions:
+  - {fileID: 11400000, guid: c5b1ad6b91394f5428d6affb4347515d, type: 2}
+  - {fileID: 11400000, guid: dc2a90f16ac4e6f47aff9f3536196959, type: 2}
+  _criticBattleActions:
+  - {fileID: 11400000, guid: d78b9b95ac2603b44b367cc538e709ed, type: 2}
+  - {fileID: 11400000, guid: 5667578f83fc592489735f10d793870e, type: 2}

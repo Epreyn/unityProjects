@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 1929bc603e0b74685b5c39d82048e391
+timeCreated: 1503391922
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Doppel_Fight_0
+    21300002: Doppel_Fight_1
+    21300004: Doppel_Fight_2
+    21300006: Doppel_Fight_3
+    21300008: Doppel_Fight_4
+    21300010: Doppel_Fight_5
+    21300012: Doppel_Fight_6
+    21300014: Doppel_Fight_7
+    21300016: Doppel_Fight_8
+    21300018: Doppel_Fight_9
+    21300020: Doppel_Fight_10
+    21300022: Doppel_Fight_11
+    21300024: Doppel_Fight_12
+    21300026: Doppel_Fight_13
+    21300028: Doppel_Fight_14
+    21300030: Doppel_Fight_15
+    21300032: Doppel_Fight_16
+    21300034: Doppel_Fight_17
+    21300036: Doppel_Fight_18
+    21300038: Doppel_Fight_19
+    21300040: Doppel_Fight_20
+    21300042: Doppel_Fight_21
+    21300044: Doppel_Fight_22
+    21300046: Doppel_Fight_23
+    21300048: Doppel_Fight_24
+    21300050: Doppel_Fight_25
+    21300052: Doppel_Fight_26
+    21300054: Doppel_Fight_27
+    21300056: Doppel_Fight_28
+    21300058: Doppel_Fight_29
+    21300060: Doppel_Fight_30
+    21300062: Doppel_Fight_31
+    21300064: Doppel_Fight_32
+    21300066: Doppel_Fight_33
+    21300068: Doppel_Fight_34
+    21300070: Doppel_Fight_35
+    21300072: Doppel_Fight_36
+    21300074: Doppel_Fight_37
+    21300076: Doppel_Fight_38
+    21300078: Doppel_Fight_39
+    21300080: Doppel_Fight_40
+    21300082: Doppel_Fight_41
+    21300084: Doppel_Fight_42
+    21300086: Doppel_Fight_43
+    21300088: Doppel_Fight_44
+    21300090: Doppel_Fight_45
+    21300092: Doppel_Fight_46
+    21300094: Doppel_Fight_47
+    21300096: Doppel_Fight_48
+    21300098: Doppel_Fight_49
+    21300100: Doppel_Fight_50
+    21300102: Doppel_Fight_51
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Doppel_Fight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5460
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_1
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 5460
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_2
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 5460
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_3
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 5460
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_4
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 5460
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_5
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 5460
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_6
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 5460
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4680
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_8
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 4680
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_9
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 4680
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_10
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 4680
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_11
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 4680
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_12
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 4680
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_13
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 4680
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3900
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_16
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3900
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_17
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3900
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_18
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3900
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_19
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 3900
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_20
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 3900
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3120
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_23
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3120
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_24
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3120
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_25
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3120
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_26
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 3120
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_27
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 3120
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2340
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_29
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2340
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_30
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2340
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_31
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2340
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_32
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2340
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_33
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 2340
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_34
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 2340
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_36
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1560
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_37
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1560
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_38
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1560
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_39
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1560
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_40
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1560
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_41
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1560
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_43
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 780
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_44
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 780
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_45
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 780
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_46
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 780
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_47
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 780
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_48
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 780
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_50
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Doppel_Fight_51
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 780
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: dfbc10c8519404f3abcb365c357ed849
+timeCreated: 1503043240
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Harpie_0
+    21300002: Harpie_1
+    21300004: Harpie_2
+    21300006: Harpie_3
+    21300008: Harpie_4
+    21300010: Harpie_5
+    21300012: Harpie_6
+    21300014: Harpie_7
+    21300016: Harpie_8
+    21300018: Harpie_9
+    21300020: Harpie_10
+    21300022: Harpie_11
+    21300024: Harpie_12
+    21300026: Harpie_13
+    21300028: Harpie_14
+    21300030: Harpie_15
+    21300032: Harpie_16
+    21300034: Harpie_17
+    21300036: Harpie_18
+    21300038: Harpie_19
+    21300040: Harpie_20
+    21300042: Harpie_21
+    21300044: Harpie_22
+    21300046: Harpie_23
+    21300048: Harpie_24
+    21300050: Harpie_25
+    21300052: Harpie_26
+    21300054: Harpie_27
+    21300056: Harpie_28
+    21300058: Harpie_29
+    21300060: Harpie_30
+    21300062: Harpie_31
+    21300064: Harpie_32
+    21300066: Harpie_33
+    21300068: Harpie_34
+    21300070: Harpie_35
+    21300072: Harpie_36
+    21300074: Harpie_37
+    21300076: Harpie_38
+    21300078: Harpie_39
+    21300080: Harpie_40
+    21300082: Harpie_41
+    21300084: Harpie_42
+    21300086: Harpie_43
+    21300088: Harpie_44
+    21300090: Harpie_45
+    21300092: Harpie_46
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Harpie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7700
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_1
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7700
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_2
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 7700
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_3
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 7700
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_4
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 7700
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_5
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 7700
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6600
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_7
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6600
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_8
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6600
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_9
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 6600
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_10
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 6600
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 6600
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5500
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_13
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 5500
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_14
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 5500
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_15
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 5500
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_16
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 5500
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_17
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 5500
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_19
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4400
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_20
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4400
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_21
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 4400
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_22
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4400
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_23
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 4400
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_25
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3300
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_26
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3300
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_27
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3300
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_28
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 3300
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_29
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3300
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2200
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_32
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2200
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_33
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2200
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_34
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 2200
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_35
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2200
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_37
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1100
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_38
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1100
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_39
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1100
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_40
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 1100
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_41
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1100
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_43
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_44
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_45
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Harpie_46
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 0
+        width: 1100
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

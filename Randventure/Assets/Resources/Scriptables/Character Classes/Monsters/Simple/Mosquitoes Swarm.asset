@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b18f4a234aabac47b094476695f18e4, type: 3}
+  m_Name: Mosquitoes Swarm
+  m_EditorClassIdentifier: 
+  _className: Mosquiteos Swarm
+  _cardType: 4
+  _idleSprite: {fileID: -5395109879077927094, guid: 5af1a4356ddedd84e83ca38ef0c56a8a,
+    type: 3}
+  _attackSprite: {fileID: -2627748712114933045, guid: 5af1a4356ddedd84e83ca38ef0c56a8a,
+    type: 3}
+  _hitSprite: {fileID: 3409167287973635732, guid: 5af1a4356ddedd84e83ca38ef0c56a8a,
+    type: 3}
+  HP: 0
+  PhysicalAttack: 3
+  MagicalAttack: 2
+  PhysicalDefense: 0
+  MagicalDefense: 0
+  _abilities:
+  - {fileID: 11400000, guid: d5d70d68da2b4c342ac0fc9570e273fc, type: 2}
+  - {fileID: 11400000, guid: 66e10d99fa02f5944be6698ba73bdd45, type: 2}

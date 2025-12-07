@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Dual Blade
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: 7261361975936044029, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Dual Blade
+  _abilityDescription: "Attaque monocible infligeant 125% de ses d\xE9g\xE2ts physique.\n\nCritique
+    : Augmente le pourcentage \xE0 250%."
+  _haveCritic: 1
+  abilityPriority: 1
+  abilityCriticPriority: 1
+  _battleActions:
+  - {fileID: 11400000, guid: f5cf886797e168449b50d8f98152fe77, type: 2}
+  _criticBattleActions:
+  - {fileID: 11400000, guid: 3a81dd91b4ca78b498ddd5fdd2d47565, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b18f4a234aabac47b094476695f18e4, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: 
+  _className: Goblin
+  _cardType: 2
+  _idleSprite: {fileID: 6413146446283329831, guid: 50d0b14fcfabeef49aaa2f63f6f9585b,
+    type: 3}
+  _attackSprite: {fileID: 298676318924771373, guid: 50d0b14fcfabeef49aaa2f63f6f9585b,
+    type: 3}
+  _hitSprite: {fileID: -641749838355542831, guid: 50d0b14fcfabeef49aaa2f63f6f9585b,
+    type: 3}
+  HP: 2
+  PhysicalAttack: 2
+  MagicalAttack: 0
+  PhysicalDefense: 1
+  MagicalDefense: 0
+  _abilities:
+  - {fileID: 11400000, guid: 3498c77088dfafa40b29115ced7ff759, type: 2}
+  - {fileID: 11400000, guid: 60b1f6d36b86d23478e1b555f3bc5251, type: 2}

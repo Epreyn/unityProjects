@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b18f4a234aabac47b094476695f18e4, type: 3}
+  m_Name: King of the Forest
+  m_EditorClassIdentifier: 
+  _className: King of the Forest
+  _cardType: 3
+  _idleSprite: {fileID: 436220126980379546, guid: 8df121de182a1e648a9433c7952949fd,
+    type: 3}
+  _attackSprite: {fileID: 4322475398684862193, guid: 8df121de182a1e648a9433c7952949fd,
+    type: 3}
+  _hitSprite: {fileID: 5877205107160582447, guid: 8df121de182a1e648a9433c7952949fd,
+    type: 3}
+  HP: 5
+  PhysicalAttack: 1
+  MagicalAttack: 1
+  PhysicalDefense: 4
+  MagicalDefense: 4
+  _abilities:
+  - {fileID: 11400000, guid: 6f2fce71fdb581f4ea8a13623214e432, type: 2}
+  - {fileID: 11400000, guid: 3c47e04e7993ef14cba1b04147134b95, type: 2}
+  - {fileID: 11400000, guid: 560cb818241d9fa4181ffc6d547ba688, type: 2}
+  - {fileID: 11400000, guid: c3bf2becb3083cb48a4984018e95bfda, type: 2}

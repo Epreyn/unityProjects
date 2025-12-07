@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1821121330931184}
+  m_IsPrefabParent: 1
+--- !u!1 &1821121330931184
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4843074533761792}
+  - component: {fileID: 114248321894210514}
+  m_Layer: 12
+  m_Name: ColumnsCreator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4843074533761792
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1821121330931184}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114248321894210514
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1821121330931184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765cc1620587049048fe2a08ca9e6891, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Columns:
+  - {fileID: 1436808941389178, guid: 9f4e4933fe70042b99aa8c7ebc7a6af2, type: 2}
+  - {fileID: 1269671784289602, guid: 97d7da6407ec04ce5986850ce1baf501, type: 2}
+  - {fileID: 1093259605870426, guid: 2dd0493db504a4e01af2abb4f244a9ee, type: 2}
+  - {fileID: 1108196226186648, guid: a52f80a014d5b4123af98c2375217f01, type: 2}
+  - {fileID: 1614421008804508, guid: bf98e029f67f4426dbbed3a998450bd4, type: 2}
+  Appears:
+  - {fileID: 114350472030991980, guid: 9f4e4933fe70042b99aa8c7ebc7a6af2, type: 2}
+  - {fileID: 114799367374456946, guid: 97d7da6407ec04ce5986850ce1baf501, type: 2}
+  - {fileID: 114455801652243902, guid: 2dd0493db504a4e01af2abb4f244a9ee, type: 2}
+  - {fileID: 114534692180242410, guid: a52f80a014d5b4123af98c2375217f01, type: 2}
+  - {fileID: 114866105264636722, guid: bf98e029f67f4426dbbed3a998450bd4, type: 2}
+  SpaceBetweenColumns: 30
+  DisplayDistance: 60
+  AppearRatio: 6
+  Parent: {fileID: 4843074533761792}
+  ScaleX: 3
+  ScaleY: 6

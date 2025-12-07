@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: 3b4c37ad450a145a9ac7a304c7e8418d
+timeCreated: 1500459456
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neidan_0
+    21300002: Neidan_1
+    21300004: Neidan_2
+    21300006: Neidan_3
+    21300008: Neidan_4
+    21300010: Neidan_5
+    21300012: Neidan_6
+    21300014: Neidan_7
+    21300016: Neidan_8
+    21300018: Neidan_9
+    21300020: Neidan_10
+    21300022: Neidan_11
+    21300024: Neidan_12
+    21300026: Neidan_13
+    21300028: Neidan_14
+    21300030: Neidan_15
+    21300032: Neidan_16
+    21300034: Neidan_17
+    21300036: Neidan_18
+    21300038: Neidan_19
+    21300040: Neidan_20
+    21300042: Neidan_21
+    21300044: Neidan_22
+    21300046: Neidan_23
+    21300048: Neidan_24
+    21300050: Neidan_25
+    21300052: Neidan_26
+    21300054: Neidan_27
+    21300056: Neidan_28
+    21300058: Neidan_29
+    21300060: Neidan_30
+    21300062: Neidan_31
+    21300064: Neidan_32
+    21300066: Neidan_33
+    21300068: Neidan_34
+    21300070: Neidan_35
+    21300072: Neidan_36
+    21300074: Neidan_37
+    21300076: Neidan_38
+    21300078: Neidan_39
+    21300080: Neidan_40
+    21300082: Neidan_41
+    21300084: Neidan_42
+    21300086: Neidan_43
+    21300088: Neidan_44
+    21300090: Neidan_45
+    21300092: Neidan_46
+    21300094: Neidan_47
+    21300096: Neidan_48
+    21300098: Neidan_49
+    21300100: Neidan_50
+    21300102: Neidan_51
+    21300104: Neidan_52
+    21300106: Neidan_53
+    21300108: Neidan_54
+    21300110: Neidan_55
+    21300112: Neidan_56
+    21300114: Neidan_57
+    21300116: Neidan_58
+    21300118: Neidan_59
+    21300120: Neidan_60
+    21300122: Neidan_61
+    21300124: Neidan_62
+    21300126: Neidan_63
+    21300128: Neidan_64
+    21300130: Neidan_65
+    21300132: Neidan_66
+    21300134: Neidan_67
+    21300136: Neidan_68
+    21300138: Neidan_69
+    21300140: Neidan_70
+    21300142: Neidan_71
+    21300144: Neidan_72
+    21300146: Neidan_73
+    21300148: Neidan_74
+    21300150: Neidan_75
+    21300152: Neidan_76
+    21300154: Neidan_77
+    21300156: Neidan_78
+    21300158: Neidan_79
+    21300160: Neidan_80
+    21300162: Neidan_81
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neidan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6660
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_1
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 6660
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_2
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 6660
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_3
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 6660
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_4
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 6660
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_5
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 6660
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_6
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 6660
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_7
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 6660
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_8
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 6660
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5920
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_10
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 5920
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_11
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 5920
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_12
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 5920
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_13
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 5920
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_14
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 5920
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_15
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 5920
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_16
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 5920
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_17
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 5920
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5180
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 5180
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_20
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 5180
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_21
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 5180
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_22
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 5180
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_23
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 5180
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_24
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 5180
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_25
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 5180
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_26
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 5180
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4440
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_28
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 4440
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_29
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 4440
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_30
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 4440
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_31
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 4440
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_32
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 4440
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_33
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 4440
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_34
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 4440
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_35
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 4440
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3700
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_37
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3700
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_38
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3700
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_39
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3700
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_40
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 3700
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_41
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 3700
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_42
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 3700
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_43
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 3700
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_44
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 3700
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2960
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_46
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2960
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_47
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2960
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_48
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2960
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_49
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2960
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_50
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 2960
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_51
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 2960
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_52
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 2960
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_53
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 2960
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2220
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_55
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2220
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_56
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2220
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_57
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2220
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_58
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2220
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_59
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 2220
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_60
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 2220
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_61
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 2220
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_62
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 2220
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_64
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1480
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_65
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1480
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_66
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1480
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_67
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1480
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_68
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1480
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_69
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 1480
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_70
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 1480
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_71
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 1480
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_73
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 740
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_74
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 740
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_75
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 740
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_76
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 740
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_77
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 740
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_78
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 740
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_79
+      rect:
+        serializedVersion: 2
+        x: 6440
+        y: 740
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_80
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 740
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neidan_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 920
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

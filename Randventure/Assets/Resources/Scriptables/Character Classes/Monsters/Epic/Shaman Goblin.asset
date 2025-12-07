@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b18f4a234aabac47b094476695f18e4, type: 3}
+  m_Name: Shaman Goblin
+  m_EditorClassIdentifier: 
+  _className: Shaman Goblin
+  _cardType: 2
+  _idleSprite: {fileID: 3754832487498030917, guid: 5af1a4356ddedd84e83ca38ef0c56a8a,
+    type: 3}
+  _attackSprite: {fileID: 8415597352338694884, guid: 5af1a4356ddedd84e83ca38ef0c56a8a,
+    type: 3}
+  _hitSprite: {fileID: -5136910518785162586, guid: 5af1a4356ddedd84e83ca38ef0c56a8a,
+    type: 3}
+  HP: 3
+  PhysicalAttack: 1
+  MagicalAttack: 3
+  PhysicalDefense: 1
+  MagicalDefense: 2
+  _abilities:
+  - {fileID: 11400000, guid: 1e8f8e7329dc8f54581e4648843e0571, type: 2}
+  - {fileID: 11400000, guid: 481aeabf292516948831ee85965e77bd, type: 2}
+  - {fileID: 11400000, guid: 80d7aaffc73e63e459db592c8fb05d66, type: 2}

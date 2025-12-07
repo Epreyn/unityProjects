@@ -1,0 +1,40 @@
+{
+    "dialogues":    [
+        {
+            "characterType": 0,
+            "name": "Neidan",
+            "atlasImageName": "EventAtlas_0",
+            "dialogueText": "Where am I ?"
+        },
+        {
+            "characterType": 1,
+            "name": "???",
+            "atlasImageName": "EventAtlas_1",
+            "dialogueText": "... Come to me ..."
+        },
+        {
+            "characterType": 0,
+            "name": "Neidan",
+            "atlasImageName": "EventAtlas_0",
+            "dialogueText": "How ? Who is talking to me ?"
+        },
+        {
+            "characterType": 1,
+            "name": "???",
+            "atlasImageName": "EventAtlas_1",
+            "dialogueText": "... I'm ... you ..."
+        },
+        {
+            "characterType": 0,
+            "name": "Neidan",
+            "atlasImageName": "EventAtlas_0",
+            "dialogueText": "What the hell is going on ?"
+        },
+        {
+            "characterType": 1,
+            "name": "???",
+            "atlasImageName": "EventAtlas_1",
+            "dialogueText": "Find me and you will find you ... Use Q, D and Z to move."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba7396d647e0b44ca82d0ca17193a60, type: 3}
+  m_Name: Pickpocket
+  m_EditorClassIdentifier: 
+  _abilityIcon: {fileID: 6323323390094634213, guid: a5baf7182301e1940bcabac12deb2d04,
+    type: 3}
+  _abilityName: Pickpocket
+  _abilityDescription: "Attaque monocible infligeant 25% de ses d\xE9g\xE2ts physiques
+    et vole 10 Golds \xE0 sa cible."
+  _haveCritic: 0
+  abilityPriority: 1
+  abilityCriticPriority: 0
+  _battleActions:
+  - {fileID: 11400000, guid: 69ee75e17badfed43afc1fc8e7cde0b2, type: 2}
+  - {fileID: 11400000, guid: 0b1417849fb810d41995dbcc60184896, type: 2}
+  _criticBattleActions: []
